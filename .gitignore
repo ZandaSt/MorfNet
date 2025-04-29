@@ -1,0 +1,6 @@
+# Noklusējuma Git ignore statiskai lapai
+.DS_Store
+*.zip
+node_modules/
+dist/
+.env
